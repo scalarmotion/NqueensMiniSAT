@@ -14,6 +14,6 @@ This project was done for an assignment for CS3234 (Logic and Formal Systems). A
 To use this program:
 
 1. Clone the repository or download the source files.
-2. Install [ECLiPSe Prolog](http://eclipseclp.org/) and [MiniSAT](http://minisat.se/). This program was written and tested on ECLiPSe Prolog 7.0 and may not necessarilyy work on any other version of ECLiPSe or dialect of Prolog (eg. SWI).
+2. Install [ECLiPSe Prolog](http://eclipseclp.org/) and [MiniSAT](http://minisat.se/). This program was written and tested on ECLiPSe Prolog 7.0 and may not necessarily work on any other version of ECLiPSe or dialect of Prolog (eg. SWI).
 3. Compile the source files into ECLiPSe.
 4. Run the main predicates, `nqueens(+N, ?L)` and `nqueensFile(+N, -F)`.
